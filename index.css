@@ -3,6 +3,14 @@ body{
     font-weight: 600;
    
 }
+.main-section{
+    width: 90%;
+    margin: auto;
+    background-color:grey;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
 
 
 h1{
